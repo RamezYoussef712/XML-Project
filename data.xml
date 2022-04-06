@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <contact>
+        <id>1</id>
+        <name>Ramez</name>
+        <phone>11111111111111</phone>
+        <address>Gleem</address>
+        <email>ramez@gmail.com</email>
+    </contact>
+    <contact>
+        <id>2</id>
+        <name>Aly</name>
+        <phone>22222222</phone>
+        <address>Louran</address>
+        <email>Aly@gmail.com</email>
+    </contact>
+    <contact>
+        <id>3</id>
+        <name>Omar</name>
+        <phone>333333</phone>
+        <address>Roshdy</address>
+        <email>omar@hotmail.com</email>
+    </contact>
+    <contact>
+        <id>4</id>
+        <name>Magdy</name>
+        <phone>44444444</phone>
+        <address>Shatby</address>
+        <email>magdy@gmail.com</email>
+    </contact>
+    <contact>
+        <id>5</id>
+        <name>Hassan</name>
+        <phone>5555555</phone>
+        <address>Tharwat</address>
+        <email>hassan@gmail.com</email>
+    </contact>
+</employee>
